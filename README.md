@@ -18,5 +18,11 @@ Because of that, there's **not much done in block and item textures**, but the *
 
 Features
 --------
+- Dark UI with white text
+- Simplistic interface designs
+
+(VanillaTweaks build details below)
+
+- Smoother font
 - Dark UI
-- Simplistic window designs
+- Options background: Birch Planks
